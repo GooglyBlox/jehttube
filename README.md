@@ -21,6 +21,8 @@ Extract ZIP, and open folder in your IDE of choice. In the [background.js](https
 7. Plug API key into the [background.js](https://github.com/GooglyBlox/jehttube/blob/main/src/background.js) file
 8. Done, profit! Load it as an extension in your chromium-based browser (Brave, Opera, Chrome, etc) and open a new YouTube tab
 
+## Breaks for some reason?
+Just hover over a video and it'll fix itself, I can't be bothered to fix it. If that doesn't fix it, open an issue I guess?
 
 ## Demo
 
