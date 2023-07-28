@@ -10,7 +10,7 @@ Jehttube is a chromium-based extension that replaces the thumbnails of all video
 
 ## How to use?
 
-Download from [Releases](https://github.com/GooglyBlox/jehttube/releases/tag/v1) or the [Direct Link](https://github.com/GooglyBlox/jehttube/files/12198598/Jehttube.zip).
+Download from [releases](https://github.com/GooglyBlox/jehttube/releases/tag/v1) or the [direct link](https://github.com/GooglyBlox/jehttube/files/12198598/Jehttube.zip).
 
 Extract ZIP, and open folder in your IDE of choice. In the [background.js](https://github.com/GooglyBlox/jehttube/blob/main/src/background.js) file, replace the "PUT KEY HERE" text in the apiKey value with your Google Cloud API key (with YouTube Data API v3 enabled).
 
