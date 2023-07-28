@@ -16,7 +16,7 @@ Extract ZIP, and open folder in your IDE of choice. In the [background.js](https
 
 ## Less vague steps
 1. Visit https://developers.google.com/
-2. Register google account as developer account
+2. Register Google account as a developer account
 3. Visit https://console.cloud.google.com/apis/credentials
 4. Create a new project and name it whatever
 5. Click the button at the top that says "Create Credentials", which will create a new API key (and you should save that somewhere)
