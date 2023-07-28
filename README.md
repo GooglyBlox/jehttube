@@ -1,4 +1,6 @@
-![](https://github.com/GooglyBlox/jehttube/blob/main/src/icon.png?raw=true)
+<p align="center">
+  <img width="200" height="200" src="https://github.com/GooglyBlox/jehttube/blob/main/src/icon.png?raw=true">
+</p>
 
 # Jehttube
 
